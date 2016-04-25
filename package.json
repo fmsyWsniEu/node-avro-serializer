@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/foxel/node-avro-serializer",
   "dependencies": {
-    "node-avro-io": "^0.3.3"
+    "node-avro-io": "https://github.com/fmsyWsniEu/node-avro-io.git"
   },
   "devDependencies": {
     "mocha": "^2.1.0",
